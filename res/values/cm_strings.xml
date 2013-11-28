@@ -123,6 +123,9 @@
     <!-- Settings item description for boolean SMS Split 160 characters setting -->
     <string name="pref_summary_sms_split_counter">Adds counter to message ex. (1/2)</string>
 
+    <!-- Context menu item on a message for marking as unread -->
+    <string name="menu_as_unread">Mark as unread</string>
+
     <!-- Multi recipients -->
     <string name="select_recipients">Select recipients</string>
     <string name="groups_header">Groups</string>
