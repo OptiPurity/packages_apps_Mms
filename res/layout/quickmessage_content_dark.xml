@@ -67,11 +67,11 @@
         </LinearLayout>
     </LinearLayout>
 
-    <!-- The divider line below sender info -->
+    <!-- Blue divider line below sender info -->
     <View
         android:layout_width="match_parent"
         android:layout_height="1dip"
-        android:background="#939393"
+        android:background="@android:color/holo_blue_light"
         android:paddingBottom="4dp"
         android:paddingTop="4dp" />
 
